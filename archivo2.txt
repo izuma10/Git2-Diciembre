@@ -1,2 +1,5 @@
 archivo2
 esta es una prueba de conflicto
+asdasd
+asdf
+archivasdfasdfasdfasdfo2
